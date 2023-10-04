@@ -1,0 +1,4 @@
+.env
+.conda
+.vscode
+__pycache__
