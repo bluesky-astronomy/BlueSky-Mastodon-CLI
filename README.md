@@ -28,7 +28,7 @@ Commands:
   send  Send message to all services
 ```
 
-If you have your environment variables set up, you can send messages with: `social send 'This is my a post using python!'`
+If you have your environment variables set up, you can send messages with: `social send 'This is a post using python!'`
 
 The `get` API is not yet fully functional.
 
