@@ -3,10 +3,10 @@
 Basic command-line-interface (CLI) scripts to post to BlueSky and Mastodon simultaneously.
 Requires the following environment variables:
 
-    BLUESKY_USER
-    BLUESKY_PASSWORD
-    MASTODON_URL
-    MASTODON_ACCESSTOKEN
+    BLUESKY_USER          - full user name (without @)
+    BLUESKY_PASSWORD      - application password (Settings -> App passwords)
+    MASTODON_URL          - base url for instance; eg, https://mastodon.social/
+    MASTODON_ACCESSTOKEN  - application access token (Settings -> Development)
 
 ## Installation
 
